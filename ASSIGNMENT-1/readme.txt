@@ -1,5 +1,5 @@
 
-This folder contains, apart from this README.txt file, the following files and sub-folders:
+This folder contains, apart from this README.txt file, the following files:
 
 (1) Assignment-1 pdf
 (2) Jupyter Notebook for both the parts
