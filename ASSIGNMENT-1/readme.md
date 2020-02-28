@@ -1,5 +1,5 @@
 
-This folder contains, apart from this README.md file, the following files:
+Apart from the README.md file, This folder contains, the following files:
 
 1. Assignment-1 pdf
 2. Jupyter Notebook for both the parts
